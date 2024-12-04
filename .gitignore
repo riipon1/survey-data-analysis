@@ -6,3 +6,8 @@ __pycache__/
 *.py[cod]
 node_modules/
 .github/
+venv/
+.venv/
+*.log
+.DS_Store  
+Thumbs.db 
